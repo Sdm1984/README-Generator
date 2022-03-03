@@ -1,5 +1,8 @@
 # ReadMe Generator
 
+Link to the walkthrough video-https://drive.google.com/file/d/1kpUVxtOGdmszUHeyS6DlpsW3wrGJg7xw/view
+GitHub Repo Code - https://github.com/Sdm1984/README-Generator/clear
+
   ## Description
   - To create a high quality ReadME file using a command-line application.
   - To learn how to use node.js and it was an assignment for the class.
