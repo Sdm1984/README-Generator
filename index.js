@@ -81,10 +81,14 @@ inquirer
     .then((data) => {
         console.log(data);
         fs.writeFile('README.md', generateMarkdown(data), 
-        (err) =>
-            err ? console.log(err) : console.log('Your README was generated')
+        error =>[
+            if (error) {
+                console.log('Please input all the data')
+            }
+                console.log('Your README was generated')
+            } 
         );
-    });
+        
 
 // const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
 
