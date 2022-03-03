@@ -90,11 +90,3 @@ inquirer
         );
     })
 
-// const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
-
-
-// // TODO: Create a function to initialize app
-// function init() { }
-
-// // Function call to initialize app
-// init();
