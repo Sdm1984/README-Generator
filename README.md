@@ -1,15 +1,16 @@
 # ReadMe Generator
 
 Link to the walkthrough video-https://drive.google.com/file/d/1kpUVxtOGdmszUHeyS6DlpsW3wrGJg7xw/view
+
 GitHub Repo Code - https://github.com/Sdm1984/README-Generator/clear
 
-  ## Description
-  - To create a high quality ReadME file using a command-line application.
-  - To learn how to use node.js and it was an assignment for the class.
+## Description
+  - To create a high quality ReadME file using a command-line application and to learn how to use node.
+  - To learn how to use node.js and to create a ReadMe.
   - It allows me as the creator to spend more time working on finalizing the project and less time on perfecting a README file.
   - How to create a professional README.md file by utilizing the Inquirer package and how to incorporate badges and licenses. 
 
-## Tabe of Contents
+## Table of Contents
 -[License](#license)
 -[Installation](#installation)
 -[Usage](#usage)
@@ -37,7 +38,7 @@ To install this application, please follow the steps below:
 
 ## Tests
 
--Type node index.js from the integrated terminal. 
+-Type node index.js from the integrated terminal and press enter.
 
 ## Questions
 

@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   - ${data.problem}
   - ${data.learn}
 
-## Tabe of Contents
+## Table of Contents
 -[License](#license)
 -[Installation](#installation)
 -[Usage](#usage)
